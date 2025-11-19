@@ -32,4 +32,4 @@ if __name__ == '__main__':
   all_lines = pd.read_csv('data/The-Office-Lines-V4.csv')
   character_lines = get_lines_of_interest(all_lines)
   character_lines = remove_short_lines(character_lines)
-  character_lines.to_csv('data/character_lines', index=False)
+  character_lines.to_csv('data/character_lines_1.csv', index=False)
