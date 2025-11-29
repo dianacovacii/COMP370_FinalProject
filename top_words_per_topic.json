@@ -1,0 +1,74 @@
+{
+  "HR": [
+    "company",
+    "branch",
+    "hr",
+    "fired",
+    "corporate",
+    "offer",
+    "behavior",
+    "policy",
+    "review",
+    "lawyer"
+  ],
+  "Humour": [
+    "queen",
+    "pies",
+    "princess",
+    "baby",
+    "weirdo",
+    "sleeping",
+    "caterer",
+    "help",
+    "god",
+    "bathroom"
+  ],
+  "Interpersonal": [
+    "dwight",
+    "son",
+    "stressed",
+    "worth",
+    "senator",
+    "calling",
+    "thinking",
+    "feel",
+    "talking",
+    "help"
+  ],
+  "Logistics": [
+    "party",
+    "branch",
+    "planning",
+    "office",
+    "work",
+    "committee",
+    "mifflin",
+    "hour",
+    "board",
+    "corporate"
+  ],
+  "Opinions": [
+    "nope",
+    "people",
+    "better",
+    "hot",
+    "art",
+    "kind",
+    "angry",
+    "coincidence",
+    "deserves",
+    "fun"
+  ],
+  "Personal": [
+    "gay",
+    "wife",
+    "senator",
+    "cat",
+    "sprinkles",
+    "wedding",
+    "husband",
+    "knew",
+    "love",
+    "wanted"
+  ]
+}
