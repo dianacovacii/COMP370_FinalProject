@@ -18,16 +18,14 @@ topic_docs = df.groupby("category")["line"].apply(lambda x: " ".join(x)).to_dict
 
 custom_stop_words = [
     "i'm", "you're", "we're", "he's", "she's", "it's", "that's", "there's", 
-    "what's", "man", "fine", "certain", "bit",
-    "can't", "would", "could", "don't", "didn't", "did", "does", 
-    "going", "gonna", "want", "like", "think", "look", "stop", "say", "mean",
-    "doing", "cause", "tell", "costs", "thing", 
-    "need", "got", "sure", "talk", "let's", "let", "run", "having", "make",
+    "what's", "man", "fine", "certain", "bit", "thing", 
+    "can't", "would", "could", "don't", "didn't", "did", "does", "doing", 
+    "going", "gonna", "want", "like", "think", "look", "stop", "say", "mean", "cause",
+    "need", "got", "sure", "talk", "let's", "let", "run", "having", "make", "tell", "costs",
     "just", "oh", "uh", "know", "really", "okay", "ok", "um", "yeah", "hey",
     "right", "wrong", "maybe", "good", "great", "little", "sorry", "new",
-    "names", "michael", "pam", "dunder", "andy", "kevin", "oscar", "angela", "chad",
-    "le", "dem", "guys", "things", "way", "come", "thought", "time", "yes", 
-    "pum", "parum"
+    "names", "michael", "pam", "dunder", "andy", "kevin", "oscar", "angela", "chad", "dwight", 
+    "le", "dem", "guys", "things", "way", "come", "thought", "time", "yes", "pum", "parum"
 ]
 
 # Combine with sklearn's default stop words and convert to list

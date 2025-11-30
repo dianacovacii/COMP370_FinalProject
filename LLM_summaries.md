@@ -1,34 +1,64 @@
-HR (Human Resources / Workplace Policies)
-Top words: company, hr, branch, fired, corporate, offer, behavior, policy, review, lawyer
-Summary:
-This category mainly revolves around workplace policies, HR procedures, and corporate regulations. Discussions often involve company rules, branch operations, legal considerations, and employee issues such as being fired or consulting a lawyer. The focus is on formal aspects of the workplace, organizational behavior, and compliance with policies.
+## HR (Human Resources / Workplace Policy)
+
+What this typology represents:
+This category includes any dialogue related to corporate rules, legal concerns, HR procedures, workplace conduct, or employment actions (e.g., hiring, firing, reviewing behavior).
+
+Top words: company, hr, branch, fired, corporate, offer, policy, lawyer, behavior, review
+
+LLM Summary:
+This category focuses on structured, policy-heavy discussions about workplace rules, HR processes, company behavior standards, and legal matters. Mentions of corporate policy, offers, and lawyer involvement reflect formal decision-making and organizational oversight.
 
 
-Humour
-Top words: queen, pies, princess, baby, weirdo, sleeping, caterer, help, god, bathroom
-Summary:
-Humour captures playful, joking, or casual interactions. Words suggest lighthearted situations, funny events, and quirky observations, often referencing food, whimsical characters, or exaggerations. This category highlights banter, teasing, and amusing storytelling among characters.
+## Humour
+
+What this typology represents:
+Covers jokes, silly remarks, light teasing, comedic storytelling, and generally playful or humorous dialogue.
+
+Top words: pies, queen, princess, baby, weirdo, sleeping, caterer, help, god, blake
+
+LLM Summary:
+Humour captures the playful, comedic side of the dialogue—jokes, absurd scenarios, and dramatic exaggerations. The vocabulary points to quirky characters, funny descriptions, and offbeat moments meant to entertain or break tension.
 
 
-Interpersonal Relationships
-Top words: dwight, son, stressed, worth, senator, calling, thinking, feel, talking, help
-Summary:
-This category reflects social and personal interactions between individuals, including family, colleagues, and friends. Conversations focus on emotions, personal concerns, communication, and relationships. Key themes include stress, care, and understanding others' feelings, often in a relational or supportive context.
+## Interpersonal Relationships
+
+What this typology represents:
+Interactions about emotional states, personal support, workplace relationships, and social dynamics—not romantic/personal life, but interpersonal connections within work.
+
+Top words: son, stressed, senator, worth, calling, thinking, feel, help, talking, phyllis
+
+LLM Summary:
+This category reflects relationship-oriented conversations marked by concern, emotional discussions, and social support. Characters talk about feelings, stress, responsibility, and interpersonal obligations, highlighting dynamics between coworkers and acquaintances.
 
 
-Logistics
+## Logistics
+
+What this typology represents:
+Covers practical, organizational dialogue about schedules, task assignments, event planning, operations, and workplace coordination.
+
 Top words: party, branch, planning, office, work, committee, mifflin, hour, board, corporate
-Summary:
-Logistics captures organizational and operational topics, including planning events, office arrangements, committees, and daily work routines. Discussions involve scheduling, coordination, and task management, highlighting how workplace activities are organized and executed.
+
+LLM Summary:
+Logistics centers on planning and coordination—event organization, office operations, scheduling, and committee work. These lines are task-focused and revolve around how the branch functions day to day.
 
 
-Opinions / Reactions / Personal Commentary
-Top words: nope, people, better, hot, art, kind, angry, coincidence, deserves, fun
-Summary:
-This category reflects subjective judgments, evaluations, and personal preferences. Conversations express likes and dislikes, reactions to events, and opinions about people or situations. Key themes include appraisal, emotional reactions, and casual commentary, often mixing humor with personal viewpoints.
+## Opinions / Reactions
+
+What this typology represents:
+Subjective statements: personal preferences, emotional reactions, judgments, evaluations, and casual commentary.
+
+Top words: nope, people, better, hot, art, kind, angry, deserves, coincidence, fun
+
+LLM Summary:
+This category showcases spontaneous reactions and personal viewpoints. Characters express approval, disapproval, irritation, excitement, or evaluative comments on people or situations—revealing personality and tone through quick judgments or emotional bursts.
 
 
-Personal Life and Relationships
+## Personal Life & Relationships
+
+What this typology represents:
+Dialogue about the speaker’s personal life: romance, marriage, family, pets, backstory, identity, and intimate emotional experiences.
+
 Top words: gay, wife, senator, cat, sprinkles, wedding, husband, knew, love, wanted
-Summary:
-This category centers on personal life, relationships, and individual experiences. Topics include romantic relationships, family, pets, and home life. Conversations reveal personal desires, love, life events like weddings, and daily personal activities, emphasizing characters’ private and emotional experiences.
+
+LLM Summary:
+This category highlights characters’ private, non-work lives—romantic relationships, family references, pets, and emotional moments. These lines reveal deeper personal details such as love, identity, weddings, or desires, offering insight into who they are beyond the workplace.

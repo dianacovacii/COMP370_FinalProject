@@ -15,12 +15,12 @@ df = pd.read_csv("data/annotated_character_lines.csv")
 
 # Top 10 words per topic (from TF-IDF)
 top_words_per_topic = {
-    'HR': ['company', 'branch', 'hr', 'fired', 'corporate', 'offer', 'behavior', 'policy', 'review', 'lawyer'], 
-    'Humour': ['queen', 'pies', 'princess', 'baby', 'weirdo', 'sleeping', 'caterer', 'help', 'god', 'bathroom'], 
-    'Interpersonal': ['dwight', 'son', 'stressed', 'worth', 'senator', 'calling', 'thinking', 'feel', 'talking', 'help'], 
+    'HR': ['company', 'hr', 'branch', 'fired', 'corporate', 'offer', 'policy', 'lawyer', 'behavior', 'review'], 
+    'Humour': ['pies', 'queen', 'princess', 'baby', 'weirdo', 'sleeping', 'caterer', 'help', 'god', 'blake'], 
+    'Interpersonal': ['son', 'stressed', 'senator', 'worth', 'calling', 'thinking', 'feel', 'help', 'talking', 'phyllis'], 
     'Logistics': ['party', 'branch', 'planning', 'office', 'work', 'committee', 'mifflin', 'hour', 'board', 'corporate'], 
-    'Opinions': ['nope', 'people', 'better', 'hot', 'art', 'kind', 'angry', 'coincidence', 'deserves', 'fun'], 
-    'Personal': ['gay', 'wife', 'senator', 'cat', 'sprinkles', 'wedding', 'husband', 'knew', 'love', 'wanted']
+    'Opinions': ['nope', 'people', 'better', 'hot', 'art', 'kind', 'angry', 'deserves', 'coincidence', 'fun'], 
+    'Personal': ['gay', 'wife', 'senator', 'cat', 'sprinkles', 'wedding', 'husband', 'knew', 'love', 'wanted']    
     }
     
 
